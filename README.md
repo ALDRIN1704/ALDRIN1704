@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/aldrin-lijo">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://aldrin-portfolio-5dgo.onrender.com/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser"/>
 </a>
 
@@ -157,25 +157,7 @@
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ALDRIN1704&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALDRIN1704&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
@@ -185,11 +167,11 @@
 
 💼 LinkedIn
 
-> YOUR_LINKEDIN_URL
+> https://linkedin.com/in/aldrin-lijo
 
 🌐 Portfolio
 
-> YOUR_PORTFOLIO_URL
+> https://aldrin-portfolio-5dgo.onrender.com/
 
 ---
 
